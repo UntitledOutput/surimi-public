@@ -1,0 +1,86 @@
+{
+    "Maps": [
+        "0",
+        "1",
+        "2"
+    ],
+    "Dialogue": {
+        "Announcement" : {
+            "BankaraIdolA": "A demonstration Splatfest is inkoming!"
+            "BankaraIdolC": "Ay? (This theme seems oddly familiar, have we seen it before?)"
+            "IdolA": "Yeah! Dont you remember? The same theme happened in Splatsville a while back."
+            "IdolA": "Anyway, here's the theme!"
+            "IdolB": "What would YOU bring to a deserted island?"
+            "BankaraIdolA": "Gear, Grub, or Fun?"
+            "BankaraIdolB": "That's easy! Grub is food, and you need food to live. Plus, Team Grub is the only team that tastes good!"
+            "IdolA": "I'm gonna have to stop you there, Frye. Team Gear is the way to go! Without gear, where are you going to sleep? Under a rock?"
+            "BankaraIdolA": "Yeah, under the same rock that CRUSHED Team Paper in the last Splatfest!"
+            "IdolB": "Okay, Shiver. Let's see what you do once you've gone a few days without eating anything."
+            "BankaraIdolA": "You're missing the point here. With gear, you can catch fish, cook it over a fire, and you'll never be hungry."
+            "BankaraIdolC": "Ay! (Enough fighting!)"
+            "BankaraIdolC": "Ay. Ay! (None of us will end up getting off of that island anyway. At least, on Team Fun, we'll get to spend our last days having FUN!)"
+            "BankaraIdolB": "What are you gonna do? Play Mario against a coconut?"
+            "BankaraIdolC": "Ay! (You know, there are plenty of games to play by yourself!)"
+            "IdolA": "Alright, Big Man. You have FUN with that."
+            "IdolA": "Everyone watching, don't forget to choose a team!"
+            "IdolB": "Just look for the Splatfest terminal in the Plaza. You can't miss it!"
+        },
+        "MidFest" : {
+            "BankaraIdolA": "The Splatfest is on now! And the theme... What would you bring to a deserted island?"
+            "IdolB": "Gear, Grub, or Fun?"
+            "BankaraIdolC": "Ay! (Vote at the Splatfest terminal in the Plaza. Then head to the lobby and jump into battle!)"
+        },
+        "Team1Win" : {
+            "BankaraIdolA": "Dialogue"
+            "IdolA": "Dialogue"
+        },
+        "Team2Win" : {
+            "BankaraIdolB": "Dialogue"
+            "IdolB": "Dialogue"
+        },
+        "Team3Win" : {
+            "BankaraIdolC": "Dialogue"
+        }
+    },
+    "IdolPosition": {
+        "BankaraIdolA":"Plaza",
+        "BankaraIdolB":"Plaza",
+        "BankaarIdolC":"Plaza",
+        "IdolA":"Map",
+        "IdolB":"Map"
+    },
+    "FesData": {
+        "Teams" : {
+            "Team1": {
+                "Color": {
+                    "r":204,
+                    "g":48,
+                    "b":252
+                },
+                "Name": "Gear"
+            },
+            "Team2": {
+                "Color": {
+                    "r":235,
+                    "g":160,
+                    "b":42
+                },
+                "Name": "Grub"
+            },
+            "Team3": {
+                "Color": {
+                    "r":50,
+                    "g":234,
+                    "b":135
+                },
+                "Name": "Fun"
+            }
+        },
+        "Timestamps": {
+            "Announcement":"2022-11-06T09:00:00-05:00",
+            "Start":"2022-11-13T09:00:00-05:00",
+            "Halftime":"2022-11-16T21:00:00-05:00",
+            "End":"2022-11-20T09:00:00-05:00"
+        }
+    }
+}
