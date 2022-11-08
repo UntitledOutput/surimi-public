@@ -6,8 +6,8 @@
     ],
     "Dialogue": {
         "Announcement" : [
-		  {"BankaraIdolA": "A demonstration Splatfest is inkoming!"},
-		  {"BankaraIdolC": "Ay? (This theme seems oddly familiar, have we seen it before?)"},
+		   {"BankaraIdolA": "A demonstration Splatfest is inkoming!"},
+		   {"BankaraIdolC": "Ay? (This theme seems oddly familiar, have we seen it before?)"},
 		   {"IdolA": "Yeah! Dont you remember? The same theme happened in Splatsville a while back."},
 		   {"IdolA": "Anyway, here's the theme!"},
 		   {"IdolB": "What would YOU bring to a deserted island?"},
@@ -26,9 +26,9 @@
 		   {"IdolB": "Just look for the Splatfest terminal in the Plaza. You can't miss it!"},
         ],
         "MidFest" : [
-		  {"BankaraIdolA": "The Splatfest is on now! And the theme... What would you bring to a deserted island?",
+		    {"BankaraIdolA": "The Splatfest is on now! And the theme... What would you bring to a deserted island?"},
 			{"IdolB": "Gear, Grub, or Fun?"},
-			 {"BankaraIdolC": "Ay! (Vote at the Splatfest terminal in the Plaza. Then head to the lobby and jump into battle!)"},
+			{"BankaraIdolC": "Ay! (Vote at the Splatfest terminal in the Plaza. Then head to the lobby and jump into battle!)"},
         ],
         "Team1Win" : [
 		  {"BankaraIdolA": "Dialogue"},
