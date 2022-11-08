@@ -23,23 +23,23 @@
 		   {"BankaraIdolC": "Ay! (You know, there are plenty of games to play by yourself!)"},
 		   {"IdolA": "Alright, Big Man. You have FUN with that."},
 		   {"IdolA": "Everyone watching, don't forget to choose a team!"},
-		   {"IdolB": "Just look for the Splatfest terminal in the Plaza. You can't miss it!"},
+		   {"IdolB": "Just look for the Splatfest terminal in the Plaza. You can't miss it!"}
         ],
         "MidFest" : [
 		    {"BankaraIdolA": "The Splatfest is on now! And the theme... What would you bring to a deserted island?"},
 			{"IdolB": "Gear, Grub, or Fun?"},
-			{"BankaraIdolC": "Ay! (Vote at the Splatfest terminal in the Plaza. Then head to the lobby and jump into battle!)"},
+			{"BankaraIdolC": "Ay! (Vote at the Splatfest terminal in the Plaza. Then head to the lobby and jump into battle!)"}
         ],
         "Team1Win" : [
 		  {"BankaraIdolA": "Dialogue"},
-		  {"IdolA": "Dialogue"},
+		  {"IdolA": "Dialogue"}
         ],
         "Team2Win" : [
 		  {"BankaraIdolB": "Dialogue"},
-		  {"IdolB": "Dialogue"},
+		  {"IdolB": "Dialogue"}
         ],
         "Team3Win" : [
-		  {"BankaraIdolC": "Dialogue"},
+		  {"BankaraIdolC": "Dialogue"}
         ]
     },
     "IdolPosition": {
